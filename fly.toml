@@ -1,0 +1,9 @@
+app = "sun-bot-hello"
+primary_region = "fra"
+
+[build]
+
+[[vm]]
+  memory = "256mb"
+  cpu_kind = "shared"
+  cpus = 1
